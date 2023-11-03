@@ -1,0 +1,22 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "description": "thanhnhan-helloword",
+  "main": "HelloWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/thanhnhan3286/NodeJs/tree/main/Start/.idea)"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "thanhnhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
